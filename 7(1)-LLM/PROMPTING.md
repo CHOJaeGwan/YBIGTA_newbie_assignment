@@ -4,7 +4,7 @@
 | ---------------------- | ------ | ------- | ------ |
 | Direct Prompting       | 22%    | 18%     | 18%    |
 | Chain-of-Thought (CoT) | 74%    | 72%     | 74%    |
-| My Prompting           | 80%    | **84%** | 54%    |
+| My Prompting           | 80%    | **84%** | 78%    |
 
 # 2. CoT Prompting이 Direct Prompting보다 좋은 이유
 
